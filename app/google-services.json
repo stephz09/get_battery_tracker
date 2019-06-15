@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1040803943382",
+    "firebase_url": "https://batterytracker-3e0f9.firebaseio.com",
+    "project_id": "batterytracker-3e0f9",
+    "storage_bucket": "batterytracker-3e0f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040803943382:android:dfa233ea13b5904d",
+        "android_client_info": {
+          "package_name": "com.stepprototype.getbatterylevel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040803943382-5q32h4vgiuj3trl31ogkhjpsjr4e0tl8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stepprototype.getbatterylevel",
+            "certificate_hash": "e5c817e1a86881c93c6ff06bd40851f6c74b8c86"
+          }
+        },
+        {
+          "client_id": "1040803943382-fgqlm1r5aqphubbfe76jj3t1sfg5ueii.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1040803943382-fgqlm1r5aqphubbfe76jj3t1sfg5ueii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG1VW4y16ENqTAieCF6h4SA8yDpre8GE0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040803943382-fgqlm1r5aqphubbfe76jj3t1sfg5ueii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
